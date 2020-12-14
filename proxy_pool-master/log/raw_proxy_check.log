@@ -1,0 +1,345 @@
+2020-11-28 21:05:39,078 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_17  : start
+2020-11-28 21:05:39,079 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_18  : start
+2020-11-28 21:05:39,079 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_19  : start
+2020-11-28 21:05:49,120 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 60.168.80.20:8888    validation fail
+2020-11-28 21:05:49,121 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 42.238.86.114:9999   validation fail
+2020-11-28 21:05:49,122 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 49.86.178.245:9999   validation fail
+2020-11-28 21:05:59,125 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 39.81.63.16:9000     validation fail
+2020-11-28 21:05:59,128 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 60.169.134.108:9999  validation fail
+2020-11-28 21:05:59,128 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 39.81.60.117:9000    validation fail
+2020-11-28 21:06:01,319 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 39.81.149.193:9000   validation fail
+2020-11-28 21:06:09,133 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 175.44.109.194:9999  validation fail
+2020-11-28 21:06:09,139 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 106.104.170.66:8080  validation fail
+2020-11-28 21:06:11,326 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 60.182.199.69:8888   validation fail
+2020-11-28 21:06:13,500 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 49.70.99.240:9999    validation fail
+2020-11-28 21:06:19,140 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 49.70.64.162:9999    validation fail
+2020-11-28 21:06:19,144 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 27.206.179.94:9000   validation fail
+2020-11-28 21:06:23,503 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 27.220.160.184:9000  validation fail
+2020-11-28 21:06:29,143 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 123.55.114.24:12219  validation fail
+2020-11-28 21:06:29,147 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 113.204.164.194:8080 validation fail
+2020-11-28 21:06:33,506 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 103.249.100.152:80   validation fail
+2020-11-28 21:06:35,673 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 27.220.55.14:9000    validation fail
+2020-11-28 21:06:39,147 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 220.191.46.113:9000  validation fail
+2020-11-28 21:06:39,152 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 112.111.77.95:9999   validation fail
+2020-11-28 21:06:45,676 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 58.22.177.50:9999    validation fail
+2020-11-28 21:06:49,149 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 60.187.113.177:9000  validation fail
+2020-11-28 21:06:49,154 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 183.166.96.147:9999  validation fail
+2020-11-28 21:06:55,685 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 175.42.68.201:9999   validation fail
+2020-11-28 21:06:55,685 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_18  : exit
+2020-11-28 21:06:59,151 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 49.70.99.200:9999    validation fail
+2020-11-28 21:06:59,151 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_17  : exit
+2020-11-28 21:06:59,156 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 58.253.148.180:9999  validation fail
+2020-11-28 21:06:59,156 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_19  : exit
+2020-11-28 21:13:49,981 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_0  : start
+2020-11-28 21:13:49,981 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_1  : start
+2020-11-28 21:13:49,982 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_2  : start
+2020-11-28 21:13:49,983 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_3  : start
+2020-11-28 21:13:49,986 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_4  : start
+2020-11-28 21:13:49,990 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_5  : start
+2020-11-28 21:13:49,993 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_6  : start
+2020-11-28 21:13:49,995 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_7  : start
+2020-11-28 21:13:49,995 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_8  : start
+2020-11-28 21:13:49,997 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_9  : start
+2020-11-28 21:13:49,999 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_10  : start
+2020-11-28 21:13:50,001 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_11  : start
+2020-11-28 21:13:50,003 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_12  : start
+2020-11-28 21:13:50,007 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_13  : start
+2020-11-28 21:13:50,009 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_14  : start
+2020-11-28 21:13:50,009 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_15  : start
+2020-11-28 21:13:50,013 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_16  : start
+2020-11-28 21:13:50,013 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_17  : start
+2020-11-28 21:13:50,014 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_18  : start
+2020-11-28 21:13:50,018 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_19  : start
+2020-11-28 21:13:50,142 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 58.220.95.31:10194   validation fail
+2020-11-28 21:13:52,141 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 49.89.103.175:9999   validation fail
+2020-11-28 21:13:52,184 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 113.121.39.29:12219  validation fail
+2020-11-28 21:13:52,223 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 49.70.99.240:9999    validation fail
+2020-11-28 21:13:54,394 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 115.221.244.150:12219 validation fail
+2020-11-28 21:13:59,991 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 49.86.178.245:9999   validation fail
+2020-11-28 21:13:59,992 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 106.42.44.254:9999   validation fail
+2020-11-28 21:13:59,992 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 42.238.86.114:9999   validation fail
+2020-11-28 21:13:59,997 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 60.168.80.20:8888    validation fail
+2020-11-28 21:14:00,003 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 60.187.116.28:9000   validation fail
+2020-11-28 21:14:00,006 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 223.247.168.10:9999  validation fail
+2020-11-28 21:14:00,006 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 175.42.123.71:9999   validation fail
+2020-11-28 21:14:00,007 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 182.34.32.30:9999    validation fail
+2020-11-28 21:14:00,011 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 27.220.51.225:9000   validation fail
+2020-11-28 21:14:00,013 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 183.247.152.98:53281 validation fail
+2020-11-28 21:14:00,014 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 113.204.164.194:8080 validation fail
+2020-11-28 21:14:00,018 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 220.191.71.56:9000   validation fail
+2020-11-28 21:14:00,023 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 175.43.152.47:9999   validation fail
+2020-11-28 21:14:00,023 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 27.220.50.80:9000    validation fail
+2020-11-28 21:14:00,023 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 110.243.26.15:9999   validation fail
+2020-11-28 21:14:00,024 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 123.163.27.101:9999  validation fail
+2020-11-28 21:14:00,144 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 49.86.56.55:9999     validation fail
+2020-11-28 21:14:02,114 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 123.163.115.89:12219 validation fail
+2020-11-28 21:14:02,143 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 27.220.163.22:9000   validation fail
+2020-11-28 21:14:02,188 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 115.221.244.150:9999 validation fail
+2020-11-28 21:14:02,214 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 49.70.99.230:9999    validation fail
+2020-11-28 21:14:02,275 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 27.206.182.101:9000  validation fail
+2020-11-28 21:14:04,194 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 123.163.115.89:9999  validation fail
+2020-11-28 21:14:04,397 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 49.70.33.186:9999    validation fail
+2020-11-28 21:14:04,416 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 49.89.84.250:9999    validation fail
+2020-11-28 21:14:09,228 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 123.57.210.164:3128  validation fail
+2020-11-28 21:14:09,997 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 42.238.84.103:9999   validation fail
+2020-11-28 21:14:09,997 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 183.146.40.190:9999  validation fail
+2020-11-28 21:14:09,999 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 113.194.30.62:9999   validation fail
+2020-11-28 21:14:10,013 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 103.249.100.152:80   validation fail
+2020-11-28 21:14:10,013 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 123.55.102.31:9999   validation fail
+2020-11-28 21:14:10,018 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 123.52.96.51:9999    validation fail
+2020-11-28 21:14:10,018 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 36.248.129.196:9999  validation fail
+2020-11-28 21:14:10,019 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 39.81.63.16:9000     validation fail
+2020-11-28 21:14:10,024 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 36.249.119.37:9999   validation fail
+2020-11-28 21:14:10,029 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 39.81.60.117:9000    validation fail
+2020-11-28 21:14:10,030 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 60.169.134.108:9999  validation fail
+2020-11-28 21:14:10,031 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 175.42.123.71:12219  validation fail
+2020-11-28 21:14:10,148 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 112.111.77.96:9999   validation fail
+2020-11-28 21:14:12,145 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 58.253.157.18:9999   validation fail
+2020-11-28 21:14:12,178 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 39.81.150.203:9000   validation fail
+2020-11-28 21:14:12,188 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 58.253.155.103:9999  validation fail
+2020-11-28 21:14:12,219 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 113.161.58.255:8080  validation fail
+2020-11-28 21:14:12,265 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 49.70.99.242:12219   validation fail
+2020-11-28 21:14:12,278 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 123.55.114.24:9999   validation fail
+2020-11-28 21:14:12,508 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 203.69.123.62:8080   validation fail
+2020-11-28 21:14:14,198 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 175.155.143.97:1133  validation fail
+2020-11-28 21:14:14,401 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 218.62.124.169:12219 validation fail
+2020-11-28 21:14:14,421 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 1.196.177.124:9999   validation fail
+2020-11-28 21:14:19,232 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 27.206.179.237:9000  validation fail
+2020-11-28 21:14:19,691 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 123.163.115.156:9999 validation fail
+2020-11-28 21:14:20,002 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 42.238.80.28:9999    validation fail
+2020-11-28 21:14:20,004 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 218.62.124.169:9999  validation fail
+2020-11-28 21:14:20,018 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 183.166.111.216:9999 validation fail
+2020-11-28 21:14:20,018 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 1.199.30.236:9999    validation fail
+2020-11-28 21:14:20,027 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 117.141.155.244:53281 validation fail
+2020-11-28 21:14:20,035 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 58.220.95.31:10174   validation fail
+2020-11-28 21:14:20,037 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 14.161.10.191:8080   validation fail
+2020-11-28 21:14:20,150 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 123.163.117.68:9999  validation fail
+2020-11-28 21:14:20,332 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 223.242.225.140:9999 validation fail
+2020-11-28 21:14:21,406 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 39.81.149.193:9000   validation fail
+2020-11-28 21:14:22,150 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 27.43.187.42:9999    validation fail
+2020-11-28 21:14:22,182 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 58.253.158.51:9999   validation fail
+2020-11-28 21:14:22,191 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 49.89.67.151:9999    validation fail
+2020-11-28 21:14:22,193 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 123.163.115.156:12219 validation fail
+2020-11-28 21:14:22,221 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 49.89.87.176:9999    validation fail
+2020-11-28 21:14:22,224 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 49.86.26.10:9999     validation fail
+2020-11-28 21:14:22,271 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 110.243.7.27:9999    validation fail
+2020-11-28 21:14:22,283 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 27.220.123.6:9000    validation fail
+2020-11-28 21:14:22,353 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 39.81.149.82:9000    validation fail
+2020-11-28 21:14:22,511 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 39.81.145.163:9000   validation fail
+2020-11-28 21:14:24,201 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 60.176.235.188:8888  validation fail
+2020-11-28 21:14:24,394 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 27.220.50.24:9000    validation fail
+2020-11-28 21:14:24,404 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 27.220.125.118:9000  validation fail
+2020-11-28 21:14:24,429 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 27.206.180.230:9000  validation fail
+2020-11-28 21:14:24,435 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 49.70.99.242:9999    validation fail
+2020-11-28 21:14:24,555 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 49.70.94.17:9999     validation fail
+2020-11-28 21:14:28,001 RawProxyCheck.py[line:54] INFO RawProxyCheck - thread_8  : 171.35.143.163:9999  validation pass
+2020-11-28 21:14:30,006 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 106.104.170.66:8080  validation fail
+2020-11-28 21:14:30,023 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 124.205.155.148:9090 validation fail
+2020-11-28 21:14:30,030 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 60.167.134.191:1133  validation fail
+2020-11-28 21:14:30,040 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 183.166.111.35:9999  validation fail
+2020-11-28 21:14:30,157 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 1.199.30.199:9999    validation fail
+2020-11-28 21:14:30,335 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 49.70.85.143:8888    validation fail
+2020-11-28 21:14:31,408 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 112.111.217.36:9999  validation fail
+2020-11-28 21:14:32,153 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 175.155.143.97:3133  validation fail
+2020-11-28 21:14:32,195 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 60.182.199.69:8888   validation fail
+2020-11-28 21:14:32,225 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 218.64.154.103:9000  validation fail
+2020-11-28 21:14:32,276 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 175.42.68.234:9999   validation fail
+2020-11-28 21:14:32,285 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 222.94.150.162:3128  validation fail
+2020-11-28 21:14:32,514 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 36.249.48.17:9999    validation fail
+2020-11-28 21:14:33,612 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 113.121.39.29:9999   validation fail
+2020-11-28 21:14:34,206 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 123.149.141.7:9999   validation fail
+2020-11-28 21:14:34,397 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 123.55.102.31:12219  validation fail
+2020-11-28 21:14:34,409 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 118.163.13.200:8080  validation fail
+2020-11-28 21:14:34,431 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 49.70.64.215:9999    validation fail
+2020-11-28 21:14:34,431 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_19  : exit
+2020-11-28 21:14:34,437 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 223.240.209.199:1133 validation fail
+2020-11-28 21:14:34,437 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_17  : exit
+2020-11-28 21:14:34,557 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 123.163.115.62:9999  validation fail
+2020-11-28 21:14:34,557 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_14  : exit
+2020-11-28 21:14:38,005 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 36.248.133.242:9999  validation fail
+2020-11-28 21:14:38,005 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_8  : exit
+2020-11-28 21:14:40,008 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 27.206.181.185:9000  validation fail
+2020-11-28 21:14:40,008 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_3  : exit
+2020-11-28 21:14:40,026 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 27.206.179.94:9000   validation fail
+2020-11-28 21:14:40,026 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_9  : exit
+2020-11-28 21:14:40,033 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 117.65.47.142:9999   validation fail
+2020-11-28 21:14:40,034 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_13  : exit
+2020-11-28 21:14:40,042 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 183.166.111.60:9999  validation fail
+2020-11-28 21:14:40,042 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_16  : exit
+2020-11-28 21:14:40,163 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 39.76.206.103:9999   validation fail
+2020-11-28 21:14:40,163 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_4  : exit
+2020-11-28 21:14:40,340 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 175.42.68.201:9999   validation fail
+2020-11-28 21:14:40,340 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_18  : exit
+2020-11-28 21:14:42,158 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 114.239.2.184:9999   validation fail
+2020-11-28 21:14:42,158 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_11  : exit
+2020-11-28 21:14:42,197 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 218.73.129.124:8888  validation fail
+2020-11-28 21:14:42,197 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_2  : exit
+2020-11-28 21:14:42,227 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 58.253.148.180:9999  validation fail
+2020-11-28 21:14:42,227 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_7  : exit
+2020-11-28 21:14:42,287 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 175.42.129.8:9999    validation fail
+2020-11-28 21:14:42,287 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_15  : exit
+2020-11-28 21:14:42,328 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 36.249.49.44:9999    validation fail
+2020-11-28 21:14:42,328 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_10  : exit
+2020-11-28 21:14:42,517 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 175.42.68.234:12219  validation fail
+2020-11-28 21:14:42,517 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_12  : exit
+2020-11-28 21:14:44,209 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 36.248.132.25:9999   validation fail
+2020-11-28 21:14:44,209 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_1  : exit
+2020-11-28 21:14:44,403 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 223.240.209.199:3133 validation fail
+2020-11-28 21:14:44,403 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_5  : exit
+2020-11-28 21:14:44,414 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 183.166.21.98:9999   validation fail
+2020-11-28 21:14:44,414 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_0  : exit
+2020-11-28 21:14:44,656 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 103.45.104.83:3128   validation fail
+2020-11-28 21:14:44,656 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_6  : exit
+2020-11-28 21:18:49,192 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_0  : start
+2020-11-28 21:18:49,193 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_1  : start
+2020-11-28 21:18:49,193 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_2  : start
+2020-11-28 21:18:49,194 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_3  : start
+2020-11-28 21:18:49,194 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_4  : start
+2020-11-28 21:18:49,196 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_5  : start
+2020-11-28 21:18:49,199 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_6  : start
+2020-11-28 21:18:49,201 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_7  : start
+2020-11-28 21:18:49,204 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_8  : start
+2020-11-28 21:18:49,205 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_9  : start
+2020-11-28 21:18:49,208 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_10  : start
+2020-11-28 21:18:49,210 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_11  : start
+2020-11-28 21:18:49,213 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_12  : start
+2020-11-28 21:18:49,216 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_13  : start
+2020-11-28 21:18:49,218 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_14  : start
+2020-11-28 21:18:49,220 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_15  : start
+2020-11-28 21:18:49,222 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_16  : start
+2020-11-28 21:18:49,227 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_17  : start
+2020-11-28 21:18:49,229 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_18  : start
+2020-11-28 21:18:49,230 RawProxyCheck.py[line:35] INFO RawProxyCheck - thread_19  : start
+2020-11-28 21:18:49,280 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 122.224.65.197:3128  validation fail
+2020-11-28 21:18:51,345 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 60.177.152.54:9000   validation fail
+2020-11-28 21:18:51,405 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 121.232.148.110:9000 validation fail
+2020-11-28 21:18:55,335 RawProxyCheck.py[line:54] INFO RawProxyCheck - thread_13  : 113.204.164.194:8080 validation pass
+2020-11-28 21:18:59,201 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 222.189.190.58:9999  validation fail
+2020-11-28 21:18:59,204 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 223.247.168.10:9999  validation fail
+2020-11-28 21:18:59,206 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 36.249.53.22:9999    validation fail
+2020-11-28 21:18:59,206 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 106.42.44.254:9999   validation fail
+2020-11-28 21:18:59,211 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 36.248.129.5:9999    validation fail
+2020-11-28 21:18:59,214 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 27.43.187.240:9999   validation fail
+2020-11-28 21:18:59,216 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 182.34.32.30:9999    validation fail
+2020-11-28 21:18:59,220 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 27.206.72.195:9000   validation fail
+2020-11-28 21:18:59,221 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 220.184.33.154:9000  validation fail
+2020-11-28 21:18:59,223 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 175.42.128.132:9999  validation fail
+2020-11-28 21:18:59,223 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 123.55.114.24:12219  validation fail
+2020-11-28 21:18:59,230 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 183.247.152.98:53281 validation fail
+2020-11-28 21:18:59,233 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 220.191.71.56:9000   validation fail
+2020-11-28 21:18:59,235 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 36.248.133.72:9999   validation fail
+2020-11-28 21:18:59,236 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 123.52.96.51:12219   validation fail
+2020-11-28 21:18:59,236 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 36.248.132.142:9999  validation fail
+2020-11-28 21:18:59,283 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 123.163.27.101:9999  validation fail
+2020-11-28 21:19:01,349 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 175.43.152.47:9999   validation fail
+2020-11-28 21:19:01,409 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 110.243.26.15:9999   validation fail
+2020-11-28 21:19:01,424 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 49.89.84.236:9999    validation fail
+2020-11-28 21:19:01,440 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 49.89.86.115:9999    validation fail
+2020-11-28 21:19:01,606 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 218.27.250.165:9999  validation fail
+2020-11-28 21:19:05,340 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 27.220.163.22:9000   validation fail
+2020-11-28 21:19:09,204 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 123.57.210.164:3128  validation fail
+2020-11-28 21:19:09,210 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 49.70.33.186:9999    validation fail
+2020-11-28 21:19:09,215 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 42.238.84.103:9999   validation fail
+2020-11-28 21:19:09,219 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 183.146.40.190:9999  validation fail
+2020-11-28 21:19:09,220 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 171.35.213.251:12219 validation fail
+2020-11-28 21:19:09,226 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 103.249.100.152:80   validation fail
+2020-11-28 21:19:09,231 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 113.194.30.62:9999   validation fail
+2020-11-28 21:19:09,231 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 36.248.133.40:9999   validation fail
+2020-11-28 21:19:09,236 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 27.206.75.75:9000    validation fail
+2020-11-28 21:19:09,249 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 58.253.158.175:12219 validation fail
+2020-11-28 21:19:09,250 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 60.168.80.198:1133   validation fail
+2020-11-28 21:19:09,250 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 123.52.96.51:9999    validation fail
+2020-11-28 21:19:09,249 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 39.81.63.16:9000     validation fail
+2020-11-28 21:19:09,285 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 112.111.217.36:12219 validation fail
+2020-11-28 21:19:11,351 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 39.81.60.117:9000    validation fail
+2020-11-28 21:19:11,412 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 60.169.134.108:9999  validation fail
+2020-11-28 21:19:11,426 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 171.35.213.251:9999  validation fail
+2020-11-28 21:19:11,442 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 112.111.77.96:9999   validation fail
+2020-11-28 21:19:11,490 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 49.89.103.237:9999   validation fail
+2020-11-28 21:19:11,610 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 123.169.122.96:9999  validation fail
+2020-11-28 21:19:13,510 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 39.81.150.203:9000   validation fail
+2020-11-28 21:19:15,344 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 113.161.58.255:8080  validation fail
+2020-11-28 21:19:19,207 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 123.55.114.24:9999   validation fail
+2020-11-28 21:19:19,212 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 175.42.68.192:9999   validation fail
+2020-11-28 21:19:19,218 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 1.196.177.124:9999   validation fail
+2020-11-28 21:19:19,224 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 220.184.32.181:9000  validation fail
+2020-11-28 21:19:19,224 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 27.206.179.237:9000  validation fail
+2020-11-28 21:19:19,228 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 123.101.207.207:9999 validation fail
+2020-11-28 21:19:19,235 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 183.166.111.216:9999 validation fail
+2020-11-28 21:19:19,235 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 59.33.58.82:9999     validation fail
+2020-11-28 21:19:19,239 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 36.248.129.146:9999  validation fail
+2020-11-28 21:19:19,257 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 1.199.30.236:9999    validation fail
+2020-11-28 21:19:19,257 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 117.141.155.244:53281 validation fail
+2020-11-28 21:19:19,258 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 58.253.158.175:9999  validation fail
+2020-11-28 21:19:19,258 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 27.43.188.0:9999     validation fail
+2020-11-28 21:19:21,415 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 175.42.68.192:12219  validation fail
+2020-11-28 21:19:21,429 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 14.161.10.191:8080   validation fail
+2020-11-28 21:19:21,447 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 60.167.112.5:1133    validation fail
+2020-11-28 21:19:21,494 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 123.163.117.68:9999  validation fail
+2020-11-28 21:19:21,613 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 175.42.128.132:12219 validation fail
+2020-11-28 21:19:21,648 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 39.81.149.82:9000    validation fail
+2020-11-28 21:19:23,513 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 49.86.26.10:9999     validation fail
+2020-11-28 21:19:25,346 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 110.243.7.27:9999    validation fail
+2020-11-28 21:19:25,847 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 49.70.94.17:9999     validation fail
+2020-11-28 21:19:29,209 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 121.237.24.214:3000  validation fail
+2020-11-28 21:19:29,214 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 39.81.145.163:9000   validation fail
+2020-11-28 21:19:29,220 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 27.220.123.6:9000    validation fail
+2020-11-28 21:19:29,228 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 60.176.235.188:8888  validation fail
+2020-11-28 21:19:29,231 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 106.104.170.66:8080  validation fail
+2020-11-28 21:19:29,241 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 49.70.99.127:9999    validation fail
+2020-11-28 21:19:29,241 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 124.205.155.148:9090 validation fail
+2020-11-28 21:19:29,264 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 27.43.188.201:9999   validation fail
+2020-11-28 21:19:29,264 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 223.243.228.230:9999 validation fail
+2020-11-28 21:19:29,265 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 183.166.111.35:9999  validation fail
+2020-11-28 21:19:29,266 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 60.166.160.136:9000  validation fail
+2020-11-28 21:19:31,358 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 222.94.151.157:3128  validation fail
+2020-11-28 21:19:31,419 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 60.168.81.3:1133     validation fail
+2020-11-28 21:19:31,431 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 1.199.30.199:9999    validation fail
+2020-11-28 21:19:31,455 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 49.70.99.38:9999     validation fail
+2020-11-28 21:19:31,497 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 112.111.217.36:9999  validation fail
+2020-11-28 21:19:31,616 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 123.169.122.96:12219 validation fail
+2020-11-28 21:19:31,640 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 61.161.29.144:9999   validation fail
+2020-11-28 21:19:31,651 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 222.94.150.162:3128  validation fail
+2020-11-28 21:19:35,350 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 118.163.13.200:8080  validation fail
+2020-11-28 21:19:35,850 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 123.149.141.7:9999   validation fail
+2020-11-28 21:19:39,216 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 123.163.115.62:9999  validation fail
+2020-11-28 21:19:39,223 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_3  : 124.205.155.158:9090 validation fail
+2020-11-28 21:19:39,223 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_3  : exit
+2020-11-28 21:19:39,232 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_5  : 106.42.44.254:12219  validation fail
+2020-11-28 21:19:39,232 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_5  : exit
+2020-11-28 21:19:39,233 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_2  : 60.168.207.120:8888  validation fail
+2020-11-28 21:19:39,233 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_2  : exit
+2020-11-28 21:19:39,235 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_7  : 36.249.49.44:12219   validation fail
+2020-11-28 21:19:39,235 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_7  : exit
+2020-11-28 21:19:39,245 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_6  : 27.206.179.94:9000   validation fail
+2020-11-28 21:19:39,245 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_11  : 117.65.47.142:9999   validation fail
+2020-11-28 21:19:39,245 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_6  : exit
+2020-11-28 21:19:39,245 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_11  : exit
+2020-11-28 21:19:39,273 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_19  : 110.243.26.15:12219  validation fail
+2020-11-28 21:19:39,273 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_16  : 49.70.32.192:9999    validation fail
+2020-11-28 21:19:39,273 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_19  : exit
+2020-11-28 21:19:39,272 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_17  : 183.166.111.60:9999  validation fail
+2020-11-28 21:19:39,273 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_17  : exit
+2020-11-28 21:19:39,273 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_16  : exit
+2020-11-28 21:19:41,362 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_0  : 60.194.235.95:80     validation fail
+2020-11-28 21:19:41,362 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_0  : exit
+2020-11-28 21:19:41,422 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_10  : 175.42.68.201:9999   validation fail
+2020-11-28 21:19:41,422 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_10  : exit
+2020-11-28 21:19:41,433 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_12  : 114.239.2.184:9999   validation fail
+2020-11-28 21:19:41,433 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_12  : exit
+2020-11-28 21:19:41,459 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_9  : 218.73.129.124:8888  validation fail
+2020-11-28 21:19:41,459 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_9  : exit
+2020-11-28 21:19:41,506 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_18  : 36.249.49.44:9999    validation fail
+2020-11-28 21:19:41,506 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_18  : exit
+2020-11-28 21:19:41,619 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_15  : 58.253.148.180:9999  validation fail
+2020-11-28 21:19:41,619 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_15  : exit
+2020-11-28 21:19:41,643 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_14  : 175.42.129.8:9999    validation fail
+2020-11-28 21:19:41,643 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_14  : exit
+2020-11-28 21:19:41,653 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_8  : 123.101.207.207:12219 validation fail
+2020-11-28 21:19:41,653 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_8  : exit
+2020-11-28 21:19:45,353 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_13  : 39.81.57.1:9000      validation fail
+2020-11-28 21:19:45,353 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_13  : exit
+2020-11-28 21:19:45,853 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_1  : 183.166.21.98:9999   validation fail
+2020-11-28 21:19:45,853 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_1  : exit
+2020-11-28 21:19:49,218 RawProxyCheck.py[line:56] INFO RawProxyCheck - thread_4  : 60.176.239.0:8888    validation fail
+2020-11-28 21:19:49,218 RawProxyCheck.py[line:41] INFO RawProxyCheck - thread_4  : exit

@@ -261,7 +261,6 @@ def download_image():
                 fd.write(img_req.content)
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     #  下载主题
     # parser_topic_page()
     # 下载主题下图片
@@ -271,9 +270,7 @@ if __name__ == '__main__':
     # proxy = requests.get("http://127.0.0.1:5010/get/")
     # print(proxy.status_code)
     # print(type(proxy.json()),proxy.json())
-=======
-    parser_topic_page()
->>>>>>> 0b1dd00... 9
+
     # with open('topic.json','r') as f:
     #     topic = json.load(f)
     #     print(topic[:20])

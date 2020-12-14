@@ -33,6 +33,7 @@ HEADER = """
 
 PY3 = sys.version_info >= (3,)
 
+## 设置redis数据库名称  IP地址 端口号 密码
 DB_TYPE = getenv('db_type', 'REDIS').upper()
 DB_HOST = getenv('db_host', '127.0.0.1')
 DB_PORT = getenv('db_port', 6379)

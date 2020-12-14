@@ -9,18 +9,14 @@ import logging
 
 try:
     import httplib
-
     httplib.HTTPConnection._http_vsn_str = 'HTTP/1.0'
 except:
     pass
+
 import requests
 import threading
 from pyquery import PyQuery as pq
-
-try:
-    from Queue import Queue as queue
-except:
-    from queue import Queue as queue
+from queue import Queue as queue
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)-6s %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 logging.addLevelName(50, 'CRIT')
@@ -193,12 +189,7 @@ if __name__ == '__main__':
             sys.exit(-1)
     work_manager = ThreadManager(20)  # 线程数
     work_manager.__start__()
-<<<<<<< HEAD
-    BasicURL = 'https://cl.ab78.xyz/'
-=======
-
     BasicURL = 'https://cl.ze53.xyz/'
->>>>>>> temp
     offset = 0
     error_count = 0
     while offset < 100:  # 主题列表分页数
@@ -209,7 +200,7 @@ if __name__ == '__main__':
             logging.error(u"遍历主题列表页失败！页码:%i" % (offset))
             error_count = 0
             continue
-<<<<<<< HEAD
+
         PageList = 'https://cl.ab78.xyz/thread0806.php?fid=16&search=&page=' + str(offset)
         Page_Obj = requests.get(PageList, headers=header, proxies=proxy, timeout=10)
         Page_Obj.encoding = 'gbk'
@@ -217,8 +208,6 @@ if __name__ == '__main__':
             error_count += 1
             logging.warn(u"下载主题列表分页失败：%i，重试:%i" % (offset, error_count))
             offset -= 1
-=======
-
         retry_count = 3
         while retry_count>0:
             try:
@@ -235,7 +224,6 @@ if __name__ == '__main__':
             except:
                 retry_count-=1
         if retry_count<=0:
->>>>>>> temp
             continue
         error_count = 0
         PagePQ = pq(Page_Obj.text)

@@ -1,0 +1,886 @@
+2020-11-28 21:06:59,516 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:06:59,516 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:06:59,617 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:8081 validation pass
+2020-11-28 21:06:59,630 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 182.61.62.74:80      validation pass
+2020-11-28 21:06:59,755 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:06:59,819 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.149.144.224:80   validation pass
+2020-11-28 21:06:59,877 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:06:59,896 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.144:80    validation pass
+2020-11-28 21:06:59,971 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:82   validation pass
+2020-11-28 21:06:59,980 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.92:80      validation pass
+2020-11-28 21:07:00,047 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.97.33.144:80     validation pass
+2020-11-28 21:07:00,248 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 113.214.13.1:1080    validation pass
+2020-11-28 21:07:00,249 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:07:10,013 UsefulProxyCheck.py[line:55] INFO UsefulProxyCheck - thread_9  : 49.4.67.31:3128      validation fail
+2020-11-28 21:07:10,014 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:08:12,382 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:08:12,382 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:08:12,383 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:08:12,384 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:08:12,386 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:08:12,390 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:08:12,393 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:08:12,393 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:08:12,399 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:08:12,400 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:08:12,455 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:08:12,493 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:08:12,507 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:08:12,510 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:08:12,516 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:08:12,521 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:08:12,528 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:08:12,529 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:08:12,552 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:08:12,565 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:08:12,598 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.42:10174   validation pass
+2020-11-28 21:08:12,601 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 61.135.169.121:80    validation pass
+2020-11-28 21:08:12,605 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 123.125.114.107:80   validation pass
+2020-11-28 21:08:12,608 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.149.144.224:80   validation pass
+2020-11-28 21:08:12,611 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.94:80      validation pass
+2020-11-28 21:08:12,623 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.151:80    validation pass
+2020-11-28 21:08:12,633 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.34.35:80      validation pass
+2020-11-28 21:08:12,647 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:08:12,668 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.249:80     validation pass
+2020-11-28 21:08:12,671 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 61.135.185.112:80    validation pass
+2020-11-28 21:08:12,676 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 117.185.17.144:80    validation pass
+2020-11-28 21:08:12,693 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.34:10174   validation pass
+2020-11-28 21:08:12,699 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 116.117.134.134:80   validation pass
+2020-11-28 21:08:12,701 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 58.220.95.30:10174   validation pass
+2020-11-28 21:08:12,701 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 61.135.185.111:80    validation pass
+2020-11-28 21:08:12,707 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:08:12,725 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:82   validation pass
+2020-11-28 21:08:12,742 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 180.97.33.92:80      validation pass
+2020-11-28 21:08:12,774 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 111.13.100.91:80     validation pass
+2020-11-28 21:08:12,774 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.149.145.160:80   validation pass
+2020-11-28 21:08:12,779 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 222.74.202.228:9999  validation pass
+2020-11-28 21:08:12,806 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.144:80     validation pass
+2020-11-28 21:08:12,809 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 47.113.96.49:80      validation pass
+2020-11-28 21:08:12,818 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 183.232.231.239:80   validation pass
+2020-11-28 21:08:12,818 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:08:12,834 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.218:80     validation pass
+2020-11-28 21:08:12,835 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:08:12,836 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.145:80    validation pass
+2020-11-28 21:08:12,836 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:08:12,845 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 220.181.111.37:80    validation pass
+2020-11-28 21:08:12,845 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:08:12,866 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 112.80.248.73:80     validation pass
+2020-11-28 21:08:12,866 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:08:12,886 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 113.214.13.1:1080    validation pass
+2020-11-28 21:08:12,886 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:08:12,914 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 117.185.17.17:80     validation pass
+2020-11-28 21:08:12,914 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:08:12,922 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 183.232.232.69:80    validation pass
+2020-11-28 21:08:12,922 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:08:12,926 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 117.185.17.16:80     validation pass
+2020-11-28 21:08:12,926 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:08:14,492 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 101.132.143.232:80   validation pass
+2020-11-28 21:08:14,493 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:09:12,408 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:09:12,410 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:09:12,411 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:09:12,415 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:09:12,419 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:09:12,424 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:09:12,429 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:09:12,435 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:09:12,440 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:09:12,444 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:09:12,498 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:09:12,513 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:09:12,544 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:09:12,560 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:09:12,560 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:09:12,560 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:09:12,567 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:09:12,572 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:09:12,582 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:09:12,591 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:09:12,632 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 58.220.95.42:10174   validation pass
+2020-11-28 21:09:12,960 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:09:13,034 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.112:80    validation pass
+2020-11-28 21:09:13,036 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.94:80      validation pass
+2020-11-28 21:09:13,121 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.144:80    validation pass
+2020-11-28 21:09:13,126 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 116.117.134.134:80   validation pass
+2020-11-28 21:09:13,155 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:09:13,171 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 117.185.17.151:80    validation pass
+2020-11-28 21:09:13,204 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.111:80    validation pass
+2020-11-28 21:09:13,242 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 116.117.134.134:82   validation pass
+2020-11-28 21:09:13,260 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.34.35:80      validation pass
+2020-11-28 21:09:13,304 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 183.232.231.239:80   validation pass
+2020-11-28 21:09:13,314 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 123.125.114.107:80   validation pass
+2020-11-28 21:09:13,320 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 61.135.169.121:80    validation pass
+2020-11-28 21:09:13,322 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.149.144.224:80   validation pass
+2020-11-28 21:09:13,346 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 222.74.202.228:9999  validation pass
+2020-11-28 21:09:13,358 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.92:80      validation pass
+2020-11-28 21:09:13,386 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.144:80     validation pass
+2020-11-28 21:09:13,393 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.149.145.160:80   validation pass
+2020-11-28 21:09:13,401 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 101.132.143.232:80   validation pass
+2020-11-28 21:09:13,405 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 111.13.100.91:80     validation pass
+2020-11-28 21:09:13,412 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.218:80     validation pass
+2020-11-28 21:09:13,452 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 47.113.96.49:80      validation pass
+2020-11-28 21:09:13,469 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.145:80    validation pass
+2020-11-28 21:09:13,470 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:09:13,495 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 220.181.111.37:80    validation pass
+2020-11-28 21:09:13,497 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:09:13,514 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 113.214.13.1:1080    validation pass
+2020-11-28 21:09:13,515 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:09:13,522 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 112.80.248.73:80     validation pass
+2020-11-28 21:09:13,522 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.17:80     validation pass
+2020-11-28 21:09:13,523 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:09:13,523 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:09:13,533 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 117.185.17.16:80     validation pass
+2020-11-28 21:09:13,534 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:09:13,537 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.232.232.69:80    validation pass
+2020-11-28 21:09:13,537 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:09:13,697 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.249:80     validation pass
+2020-11-28 21:09:13,697 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:09:13,720 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 58.220.95.34:10174   validation pass
+2020-11-28 21:09:13,720 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:09:23,176 UsefulProxyCheck.py[line:55] INFO UsefulProxyCheck - thread_3  : 58.220.95.30:10174   validation fail
+2020-11-28 21:09:23,178 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:10:12,393 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:10:12,393 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:10:12,394 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:10:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:10:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:10:12,399 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:10:12,403 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:10:12,406 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:10:12,408 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:10:12,410 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:10:12,461 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:10:12,505 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:10:12,526 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:10:12,531 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:10:12,536 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:10:12,550 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:10:12,553 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:10:12,564 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:10:12,563 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:10:12,588 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:10:12,625 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.169.121:80    validation pass
+2020-11-28 21:10:12,629 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.34.35:80      validation pass
+2020-11-28 21:10:12,630 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.149.144.224:80   validation pass
+2020-11-28 21:10:12,635 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 58.220.95.42:10174   validation pass
+2020-11-28 21:10:12,640 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 123.125.114.107:80   validation pass
+2020-11-28 21:10:12,640 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:10:12,666 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:10:12,673 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:10:12,694 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.249:80     validation pass
+2020-11-28 21:10:12,702 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 117.185.17.144:80    validation pass
+2020-11-28 21:10:12,706 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.111:80    validation pass
+2020-11-28 21:10:12,712 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 61.135.185.112:80    validation pass
+2020-11-28 21:10:12,719 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:10:12,720 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 58.220.95.34:10174   validation pass
+2020-11-28 21:10:12,722 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 116.117.134.134:80   validation pass
+2020-11-28 21:10:12,756 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 116.117.134.134:82   validation pass
+2020-11-28 21:10:12,796 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 111.13.100.91:80     validation pass
+2020-11-28 21:10:12,804 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 222.74.202.228:9999  validation pass
+2020-11-28 21:10:12,803 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.149.145.160:80   validation pass
+2020-11-28 21:10:12,810 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.92:80      validation pass
+2020-11-28 21:10:12,818 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.144:80     validation pass
+2020-11-28 21:10:12,833 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.218:80     validation pass
+2020-11-28 21:10:12,847 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 183.232.231.239:80   validation pass
+2020-11-28 21:10:12,847 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:10:12,865 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 47.113.96.49:80      validation pass
+2020-11-28 21:10:12,865 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:10:12,869 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 220.181.111.37:80    validation pass
+2020-11-28 21:10:12,869 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:10:12,879 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 113.214.13.1:1080    validation pass
+2020-11-28 21:10:12,879 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:10:12,881 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 117.185.17.145:80    validation pass
+2020-11-28 21:10:12,881 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:10:12,906 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.73:80     validation pass
+2020-11-28 21:10:12,906 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:10:12,929 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 117.185.17.17:80     validation pass
+2020-11-28 21:10:12,929 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:10:12,947 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.16:80     validation pass
+2020-11-28 21:10:12,947 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:10:12,952 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 183.232.232.69:80    validation pass
+2020-11-28 21:10:12,952 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:10:13,324 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 101.132.143.232:80   validation pass
+2020-11-28 21:10:13,324 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:11:12,395 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:11:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:11:12,397 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:11:12,398 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:11:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:11:12,404 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:11:12,406 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:11:12,407 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:11:12,409 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:11:12,412 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:11:12,465 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:11:12,496 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:11:12,541 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:11:12,547 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:11:12,564 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:11:12,569 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:11:12,581 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:11:12,587 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:11:12,591 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:11:12,593 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:11:12,618 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 180.97.33.94:80      validation pass
+2020-11-28 21:11:12,650 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 58.220.95.42:10174   validation pass
+2020-11-28 21:11:12,650 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.169.121:80    validation pass
+2020-11-28 21:11:12,660 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 123.125.114.107:80   validation pass
+2020-11-28 21:11:12,670 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 117.185.17.151:80    validation pass
+2020-11-28 21:11:12,671 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.34.35:80      validation pass
+2020-11-28 21:11:12,678 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:11:12,693 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.97.33.249:80     validation pass
+2020-11-28 21:11:12,694 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.149.144.224:80   validation pass
+2020-11-28 21:11:12,707 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 58.220.95.34:10174   validation pass
+2020-11-28 21:11:12,719 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:11:12,735 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.144:80    validation pass
+2020-11-28 21:11:12,744 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 61.135.185.112:80    validation pass
+2020-11-28 21:11:12,762 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 116.117.134.134:80   validation pass
+2020-11-28 21:11:12,771 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:82   validation pass
+2020-11-28 21:11:12,796 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.97.33.92:80      validation pass
+2020-11-28 21:11:12,814 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 222.74.202.228:9999  validation pass
+2020-11-28 21:11:12,818 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.149.145.160:80   validation pass
+2020-11-28 21:11:12,825 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.144:80     validation pass
+2020-11-28 21:11:12,833 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 111.13.100.91:80     validation pass
+2020-11-28 21:11:12,868 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.239:80   validation pass
+2020-11-28 21:11:12,875 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 47.113.96.49:80      validation pass
+2020-11-28 21:11:12,895 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 117.185.17.145:80    validation pass
+2020-11-28 21:11:12,895 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 220.181.111.37:80    validation pass
+2020-11-28 21:11:12,896 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.218:80     validation pass
+2020-11-28 21:11:12,895 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:11:12,896 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:11:12,936 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 112.80.248.73:80     validation pass
+2020-11-28 21:11:12,936 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:11:12,956 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 117.185.17.17:80     validation pass
+2020-11-28 21:11:12,957 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:11:12,973 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 113.214.13.1:1080    validation pass
+2020-11-28 21:11:12,973 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:11:12,979 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.16:80     validation pass
+2020-11-28 21:11:12,980 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:11:12,981 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 183.232.232.69:80    validation pass
+2020-11-28 21:11:12,981 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:11:13,022 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 61.135.185.111:80    validation pass
+2020-11-28 21:11:13,022 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:11:13,378 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 101.132.143.232:80   validation pass
+2020-11-28 21:11:13,379 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:12:12,400 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:12:12,400 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:12:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:12:12,402 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:12:12,407 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:12:12,411 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:12:12,413 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:12:12,417 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:12:12,418 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:12:12,422 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:12:12,469 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:12:12,513 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:12:12,530 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:12:12,538 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:12:12,565 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:12:12,574 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:12:12,574 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:12:12,581 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:12:12,594 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:12:12,623 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:12:12,625 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:12:12,653 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.97.34.35:80      validation pass
+2020-11-28 21:12:12,654 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:12:12,661 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 123.125.114.107:80   validation pass
+2020-11-28 21:12:12,661 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.149.144.224:80   validation pass
+2020-11-28 21:12:12,674 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 58.220.95.42:10174   validation pass
+2020-11-28 21:12:12,674 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:12:12,675 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 61.135.169.121:80    validation pass
+2020-11-28 21:12:12,698 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.34:10174   validation pass
+2020-11-28 21:12:12,718 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 61.135.185.112:80    validation pass
+2020-11-28 21:12:12,719 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.249:80     validation pass
+2020-11-28 21:12:12,724 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:12:12,740 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.111:80    validation pass
+2020-11-28 21:12:12,744 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.144:80    validation pass
+2020-11-28 21:12:12,751 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 116.117.134.134:80   validation pass
+2020-11-28 21:12:12,764 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:82   validation pass
+2020-11-28 21:12:12,787 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.92:80      validation pass
+2020-11-28 21:12:12,802 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 111.13.100.91:80     validation pass
+2020-11-28 21:12:12,806 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.149.145.160:80   validation pass
+2020-11-28 21:12:12,815 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 222.74.202.228:9999  validation pass
+2020-11-28 21:12:12,823 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.144:80     validation pass
+2020-11-28 21:12:12,825 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.218:80     validation pass
+2020-11-28 21:12:12,864 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 47.113.96.49:80      validation pass
+2020-11-28 21:12:12,864 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:12:12,867 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.145:80    validation pass
+2020-11-28 21:12:12,867 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:12:12,871 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 220.181.111.37:80    validation pass
+2020-11-28 21:12:12,871 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:12:12,897 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 112.80.248.73:80     validation pass
+2020-11-28 21:12:12,897 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:12:12,902 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 183.232.231.239:80   validation pass
+2020-11-28 21:12:12,917 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:12:12,929 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 113.214.13.1:1080    validation pass
+2020-11-28 21:12:12,929 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:12:12,930 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.17:80     validation pass
+2020-11-28 21:12:12,930 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:12:12,944 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 183.232.232.69:80    validation pass
+2020-11-28 21:12:12,944 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:12:12,946 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.16:80     validation pass
+2020-11-28 21:12:12,946 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:12:13,384 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 101.132.143.232:80   validation pass
+2020-11-28 21:12:13,384 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:13:12,391 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:13:12,391 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:13:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:13:12,399 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:13:12,399 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:13:12,400 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:13:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:13:12,405 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:13:12,405 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:13:12,409 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:13:12,470 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:13:12,480 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:13:12,487 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:13:12,526 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:13:12,538 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:13:12,548 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 61.135.185.31:80     validation pass
+2020-11-28 21:13:12,566 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:13:12,570 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:13:12,579 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:13:12,580 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:13:12,584 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.94:80      validation pass
+2020-11-28 21:13:12,599 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 58.220.95.42:10174   validation pass
+2020-11-28 21:13:12,628 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.97.34.35:80      validation pass
+2020-11-28 21:13:12,638 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 61.135.169.121:80    validation pass
+2020-11-28 21:13:12,640 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:13:12,644 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 123.125.114.107:80   validation pass
+2020-11-28 21:13:12,651 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.149.144.224:80   validation pass
+2020-11-28 21:13:12,658 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:13:12,662 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 61.135.185.112:80    validation pass
+2020-11-28 21:13:12,667 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 58.220.95.34:10174   validation pass
+2020-11-28 21:13:12,668 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.249:80     validation pass
+2020-11-28 21:13:12,701 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 117.185.17.144:80    validation pass
+2020-11-28 21:13:12,704 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.111:80    validation pass
+2020-11-28 21:13:12,745 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 116.117.134.134:82   validation pass
+2020-11-28 21:13:12,745 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 116.117.134.134:80   validation pass
+2020-11-28 21:13:12,754 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.92:80      validation pass
+2020-11-28 21:13:12,757 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:13:12,758 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.144:80     validation pass
+2020-11-28 21:13:12,767 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 222.74.202.228:9999  validation pass
+2020-11-28 21:13:12,770 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.149.145.160:80   validation pass
+2020-11-28 21:13:12,802 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.97.33.218:80     validation pass
+2020-11-28 21:13:12,819 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 183.232.231.239:80   validation pass
+2020-11-28 21:13:12,821 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 111.13.100.91:80     validation pass
+2020-11-28 21:13:12,822 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:13:12,842 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.145:80    validation pass
+2020-11-28 21:13:12,842 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:13:12,858 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 220.181.111.37:80    validation pass
+2020-11-28 21:13:12,858 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:13:12,875 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 47.113.96.49:80      validation pass
+2020-11-28 21:13:12,875 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:13:12,892 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.17:80     validation pass
+2020-11-28 21:13:12,892 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:13:12,898 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.73:80     validation pass
+2020-11-28 21:13:12,898 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:13:12,923 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 183.232.232.69:80    validation pass
+2020-11-28 21:13:12,923 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:13:12,938 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 117.185.17.16:80     validation pass
+2020-11-28 21:13:12,938 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:13:13,228 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 101.132.143.232:80   validation pass
+2020-11-28 21:13:13,228 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:13:15,958 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 113.214.13.1:1080    validation pass
+2020-11-28 21:13:15,958 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:14:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:14:12,397 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:14:12,397 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:14:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:14:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:14:12,402 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:14:12,405 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:14:12,406 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:14:12,408 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:14:12,414 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:14:12,460 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 112.80.248.75:80     validation pass
+2020-11-28 21:14:12,489 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:14:12,504 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.104.97:80     validation pass
+2020-11-28 21:14:12,534 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:14:12,552 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:14:12,555 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:14:12,559 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:14:12,572 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.97.33.93:80      validation pass
+2020-11-28 21:14:12,581 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:14:12,586 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 163.177.151.224:80   validation pass
+2020-11-28 21:14:12,607 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.94:80      validation pass
+2020-11-28 21:14:12,619 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 58.220.95.42:10174   validation pass
+2020-11-28 21:14:12,633 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:14:12,641 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.149.144.224:80   validation pass
+2020-11-28 21:14:12,643 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.169.121:80    validation pass
+2020-11-28 21:14:12,647 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 123.125.114.107:80   validation pass
+2020-11-28 21:14:12,651 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:14:12,655 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.34.35:80      validation pass
+2020-11-28 21:14:12,682 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.249:80     validation pass
+2020-11-28 21:14:12,686 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 58.220.95.34:10174   validation pass
+2020-11-28 21:14:12,710 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.112:80    validation pass
+2020-11-28 21:14:12,717 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.144:80    validation pass
+2020-11-28 21:14:12,724 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 183.47.237.251:80    validation pass
+2020-11-28 21:14:12,728 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.185.111:80    validation pass
+2020-11-28 21:14:12,734 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 116.117.134.134:80   validation pass
+2020-11-28 21:14:12,764 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 116.117.134.134:82   validation pass
+2020-11-28 21:14:12,799 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.97.33.218:80     validation pass
+2020-11-28 21:14:12,800 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.149.145.160:80   validation pass
+2020-11-28 21:14:12,806 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 111.13.100.91:80     validation pass
+2020-11-28 21:14:12,808 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.92:80      validation pass
+2020-11-28 21:14:12,818 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.144:80     validation pass
+2020-11-28 21:14:12,834 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 183.232.231.239:80   validation pass
+2020-11-28 21:14:12,866 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 220.181.111.37:80    validation pass
+2020-11-28 21:14:12,867 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:14:12,893 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.145:80    validation pass
+2020-11-28 21:14:12,894 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 112.80.248.73:80     validation pass
+2020-11-28 21:14:12,894 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:14:12,894 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 113.214.13.1:1080    validation pass
+2020-11-28 21:14:12,895 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:14:12,894 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:14:12,929 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 117.185.17.17:80     validation pass
+2020-11-28 21:14:12,929 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.16:80     validation pass
+2020-11-28 21:14:12,929 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:14:12,930 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:14:12,947 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 47.113.96.49:80      validation pass
+2020-11-28 21:14:12,948 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:14:12,962 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 183.232.232.69:80    validation pass
+2020-11-28 21:14:12,962 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:14:14,249 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 101.132.143.232:80   validation pass
+2020-11-28 21:14:14,249 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:14:14,317 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 222.74.202.228:9999  validation pass
+2020-11-28 21:14:14,317 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:15:12,407 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:15:12,407 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:15:12,408 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:15:12,410 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:15:12,412 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:15:12,414 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:15:12,417 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:15:12,419 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:15:12,422 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:15:12,424 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:15:12,488 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:15:12,491 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:15:12,528 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:15:12,549 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:15:12,560 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:15:12,561 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:15:12,590 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:15:12,593 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:15:12,609 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:15:12,613 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:15:12,623 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:15:12,624 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 58.220.95.42:10174   validation pass
+2020-11-28 21:15:12,650 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.169.121:80    validation pass
+2020-11-28 21:15:12,655 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:15:12,659 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.149.144.224:80   validation pass
+2020-11-28 21:15:12,661 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 123.125.114.107:80   validation pass
+2020-11-28 21:15:12,669 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.34.35:80      validation pass
+2020-11-28 21:15:12,687 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 58.220.95.34:10174   validation pass
+2020-11-28 21:15:12,688 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.249:80     validation pass
+2020-11-28 21:15:12,689 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:15:12,690 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.112:80    validation pass
+2020-11-28 21:15:12,724 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:15:12,730 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 61.135.185.111:80    validation pass
+2020-11-28 21:15:12,734 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.144:80    validation pass
+2020-11-28 21:15:12,738 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:80   validation pass
+2020-11-28 21:15:12,784 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 116.117.134.134:82   validation pass
+2020-11-28 21:15:12,794 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 180.97.33.92:80      validation pass
+2020-11-28 21:15:12,806 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 222.74.202.228:9999  validation pass
+2020-11-28 21:15:12,814 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.149.145.160:80   validation pass
+2020-11-28 21:15:12,815 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 111.13.100.91:80     validation pass
+2020-11-28 21:15:12,819 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.144:80     validation pass
+2020-11-28 21:15:12,829 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.97.33.218:80     validation pass
+2020-11-28 21:15:12,833 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.239:80   validation pass
+2020-11-28 21:15:12,888 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 220.181.111.37:80    validation pass
+2020-11-28 21:15:12,889 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:15:12,893 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.145:80    validation pass
+2020-11-28 21:15:12,893 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:15:12,893 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 112.80.248.73:80     validation pass
+2020-11-28 21:15:12,893 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:15:12,939 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.17:80     validation pass
+2020-11-28 21:15:12,940 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:15:12,952 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 117.185.17.16:80     validation pass
+2020-11-28 21:15:12,953 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 113.214.13.1:1080    validation pass
+2020-11-28 21:15:12,953 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:15:12,953 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:15:12,960 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 183.232.232.69:80    validation pass
+2020-11-28 21:15:12,960 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:15:13,337 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 101.132.143.232:80   validation pass
+2020-11-28 21:15:13,337 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:15:14,031 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 47.113.96.49:80      validation pass
+2020-11-28 21:15:14,031 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:15:23,708 UsefulProxyCheck.py[line:55] INFO UsefulProxyCheck - thread_1  : 171.35.143.163:9999  validation fail
+2020-11-28 21:15:23,708 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:16:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:16:12,402 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:16:12,402 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:16:12,403 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:16:12,405 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:16:12,408 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:16:12,412 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:16:12,415 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:16:12,419 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:16:12,421 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:16:12,472 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:16:12,496 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:16:12,511 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:16:12,531 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:16:12,547 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:16:12,550 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:16:12,562 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:16:12,566 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:16:12,571 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:16:12,585 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:16:12,636 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 58.220.95.42:10174   validation pass
+2020-11-28 21:16:12,637 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.149.144.224:80   validation pass
+2020-11-28 21:16:12,639 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 123.125.114.107:80   validation pass
+2020-11-28 21:16:12,644 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:16:12,647 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.169.121:80    validation pass
+2020-11-28 21:16:12,651 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.34.35:80      validation pass
+2020-11-28 21:16:12,655 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:16:12,683 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.249:80     validation pass
+2020-11-28 21:16:12,687 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:16:12,703 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.185.111:80    validation pass
+2020-11-28 21:16:12,727 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:16:12,728 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.144:80    validation pass
+2020-11-28 21:16:12,734 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 61.135.185.112:80    validation pass
+2020-11-28 21:16:12,735 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 58.220.95.34:10174   validation pass
+2020-11-28 21:16:12,743 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 116.117.134.134:80   validation pass
+2020-11-28 21:16:12,753 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 116.117.134.134:82   validation pass
+2020-11-28 21:16:12,785 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 222.74.202.228:9999  validation pass
+2020-11-28 21:16:12,785 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.97.33.92:80      validation pass
+2020-11-28 21:16:12,805 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 111.13.100.91:80     validation pass
+2020-11-28 21:16:12,810 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.149.145.160:80   validation pass
+2020-11-28 21:16:12,827 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.144:80     validation pass
+2020-11-28 21:16:12,836 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.218:80     validation pass
+2020-11-28 21:16:12,850 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 183.232.231.239:80   validation pass
+2020-11-28 21:16:12,851 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:16:12,874 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 117.185.17.145:80    validation pass
+2020-11-28 21:16:12,874 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:16:12,876 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 220.181.111.37:80    validation pass
+2020-11-28 21:16:12,876 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:16:12,893 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 47.113.96.49:80      validation pass
+2020-11-28 21:16:12,893 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:16:12,899 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 112.80.248.73:80     validation pass
+2020-11-28 21:16:12,900 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:16:12,924 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 113.214.13.1:1080    validation pass
+2020-11-28 21:16:12,924 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:16:12,933 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.17:80     validation pass
+2020-11-28 21:16:12,933 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:16:12,934 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 183.232.232.69:80    validation pass
+2020-11-28 21:16:12,934 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:16:12,948 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 117.185.17.16:80     validation pass
+2020-11-28 21:16:12,948 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:16:13,788 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 101.132.143.232:80   validation pass
+2020-11-28 21:16:13,788 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:17:12,385 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:17:12,385 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:17:12,390 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:17:12,392 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:17:12,395 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:17:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:17:12,399 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:17:12,400 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:17:12,403 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:17:12,404 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:17:12,493 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:17:12,493 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:17:12,503 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:17:12,517 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:17:12,521 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:17:12,529 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:17:12,529 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:17:12,551 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:17:12,579 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:17:12,594 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:17:12,596 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:17:12,597 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.149.144.224:80   validation pass
+2020-11-28 21:17:12,619 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 58.220.95.42:10174   validation pass
+2020-11-28 21:17:12,627 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 123.125.114.107:80   validation pass
+2020-11-28 21:17:12,644 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:17:12,649 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.34.35:80      validation pass
+2020-11-28 21:17:12,654 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.151:80    validation pass
+2020-11-28 21:17:12,666 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 61.135.185.112:80    validation pass
+2020-11-28 21:17:12,676 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.34:10174   validation pass
+2020-11-28 21:17:12,688 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.249:80     validation pass
+2020-11-28 21:17:12,697 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.144:80    validation pass
+2020-11-28 21:17:12,709 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:17:12,717 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.111:80    validation pass
+2020-11-28 21:17:12,726 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:80   validation pass
+2020-11-28 21:17:12,762 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 116.117.134.134:82   validation pass
+2020-11-28 21:17:12,767 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.92:80      validation pass
+2020-11-28 21:17:12,794 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 111.13.100.91:80     validation pass
+2020-11-28 21:17:12,798 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 222.74.202.228:9999  validation pass
+2020-11-28 21:17:12,798 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.149.145.160:80   validation pass
+2020-11-28 21:17:12,803 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.97.33.144:80     validation pass
+2020-11-28 21:17:12,814 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 183.232.231.239:80   validation pass
+2020-11-28 21:17:12,815 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.218:80     validation pass
+2020-11-28 21:17:12,869 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 220.181.111.37:80    validation pass
+2020-11-28 21:17:12,869 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:17:12,877 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.145:80    validation pass
+2020-11-28 21:17:12,877 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:17:12,881 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 112.80.248.73:80     validation pass
+2020-11-28 21:17:12,881 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:17:12,928 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 117.185.17.17:80     validation pass
+2020-11-28 21:17:12,928 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:17:12,932 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 47.113.96.49:80      validation pass
+2020-11-28 21:17:12,932 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:17:12,940 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 113.214.13.1:1080    validation pass
+2020-11-28 21:17:12,940 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 183.232.232.69:80    validation pass
+2020-11-28 21:17:12,940 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:17:12,940 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:17:12,950 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 117.185.17.16:80     validation pass
+2020-11-28 21:17:12,950 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:17:13,273 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 101.132.143.232:80   validation pass
+2020-11-28 21:17:13,273 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:17:13,612 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 61.135.169.121:80    validation pass
+2020-11-28 21:17:13,612 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:18:12,383 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:18:12,384 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:18:12,384 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:18:12,388 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:18:12,390 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:18:12,392 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:18:12,394 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:18:12,395 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:18:12,397 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:18:12,399 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:18:12,450 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:18:12,490 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:18:12,493 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:18:12,517 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:18:12,522 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:18:12,528 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:18:12,543 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:18:12,559 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:18:12,565 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:18:12,569 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:18:12,590 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:18:12,608 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 58.220.95.42:10174   validation pass
+2020-11-28 21:18:12,612 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.169.121:80    validation pass
+2020-11-28 21:18:12,613 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:18:12,626 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 123.125.114.107:80   validation pass
+2020-11-28 21:18:12,630 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.149.144.224:80   validation pass
+2020-11-28 21:18:12,638 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:18:12,650 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.34.35:80      validation pass
+2020-11-28 21:18:12,674 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 58.220.95.34:10174   validation pass
+2020-11-28 21:18:12,679 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.144:80    validation pass
+2020-11-28 21:18:12,684 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.249:80     validation pass
+2020-11-28 21:18:12,703 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:80   validation pass
+2020-11-28 21:18:12,709 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 61.135.185.111:80    validation pass
+2020-11-28 21:18:12,710 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:18:12,730 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 116.117.134.134:82   validation pass
+2020-11-28 21:18:12,777 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.144:80     validation pass
+2020-11-28 21:18:12,785 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 111.13.100.91:80     validation pass
+2020-11-28 21:18:12,789 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 222.74.202.228:9999  validation pass
+2020-11-28 21:18:12,791 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.92:80      validation pass
+2020-11-28 21:18:12,797 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.149.145.160:80   validation pass
+2020-11-28 21:18:12,814 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 183.232.231.239:80   validation pass
+2020-11-28 21:18:12,830 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.97.33.218:80     validation pass
+2020-11-28 21:18:12,851 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.145:80    validation pass
+2020-11-28 21:18:12,851 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:18:12,868 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 220.181.111.37:80    validation pass
+2020-11-28 21:18:12,868 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:18:12,893 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 112.80.248.73:80     validation pass
+2020-11-28 21:18:12,893 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:18:12,901 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 183.232.232.69:80    validation pass
+2020-11-28 21:18:12,901 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:18:12,923 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.17:80     validation pass
+2020-11-28 21:18:12,924 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 113.214.13.1:1080    validation pass
+2020-11-28 21:18:12,924 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:18:12,924 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:18:12,946 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 117.185.17.16:80     validation pass
+2020-11-28 21:18:12,946 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 61.135.185.112:80    validation pass
+2020-11-28 21:18:12,946 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:18:12,946 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:18:13,144 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 47.113.96.49:80      validation pass
+2020-11-28 21:18:13,144 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:18:13,275 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 101.132.143.232:80   validation pass
+2020-11-28 21:18:13,276 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:19:12,390 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:19:12,390 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:19:12,392 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:19:12,394 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:19:12,395 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:19:12,397 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:19:12,403 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:19:12,405 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:19:12,406 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:19:12,407 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:19:12,451 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:19:12,498 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:19:12,525 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:19:12,526 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:19:12,537 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:19:12,552 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:19:12,552 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:19:12,585 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 61.135.185.31:80     validation pass
+2020-11-28 21:19:12,590 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.97.33.93:80      validation pass
+2020-11-28 21:19:12,613 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:19:12,629 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.94:80      validation pass
+2020-11-28 21:19:12,632 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.42:10174   validation pass
+2020-11-28 21:19:12,636 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 183.232.231.133:80   validation pass
+2020-11-28 21:19:12,650 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.149.144.224:80   validation pass
+2020-11-28 21:19:12,654 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 61.135.169.121:80    validation pass
+2020-11-28 21:19:12,660 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 123.125.114.107:80   validation pass
+2020-11-28 21:19:12,664 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:19:12,682 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.97.34.35:80      validation pass
+2020-11-28 21:19:12,708 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:19:12,716 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.144:80    validation pass
+2020-11-28 21:19:12,717 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.34:10174   validation pass
+2020-11-28 21:19:12,734 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.249:80     validation pass
+2020-11-28 21:19:12,741 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 61.135.185.112:80    validation pass
+2020-11-28 21:19:12,746 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 116.117.134.134:80   validation pass
+2020-11-28 21:19:12,763 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 116.117.134.134:82   validation pass
+2020-11-28 21:19:12,817 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 222.74.202.228:9999  validation pass
+2020-11-28 21:19:12,824 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 180.149.145.160:80   validation pass
+2020-11-28 21:19:12,824 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 111.13.100.91:80     validation pass
+2020-11-28 21:19:12,829 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 180.97.33.144:80     validation pass
+2020-11-28 21:19:12,830 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.97.33.92:80      validation pass
+2020-11-28 21:19:12,853 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.218:80     validation pass
+2020-11-28 21:19:12,867 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 183.232.231.239:80   validation pass
+2020-11-28 21:19:12,889 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 47.113.96.49:80      validation pass
+2020-11-28 21:19:12,909 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.145:80    validation pass
+2020-11-28 21:19:12,909 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:19:12,935 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 183.232.232.69:80    validation pass
+2020-11-28 21:19:12,935 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:19:12,938 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 220.181.111.37:80    validation pass
+2020-11-28 21:19:12,938 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:19:12,963 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 112.80.248.73:80     validation pass
+2020-11-28 21:19:12,963 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 117.185.17.17:80     validation pass
+2020-11-28 21:19:12,964 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:19:12,964 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:19:12,973 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.111:80    validation pass
+2020-11-28 21:19:12,973 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:19:12,982 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.16:80     validation pass
+2020-11-28 21:19:12,982 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:19:13,042 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 113.214.13.1:1080    validation pass
+2020-11-28 21:19:13,042 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:19:13,341 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 101.132.143.232:80   validation pass
+2020-11-28 21:19:13,342 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:19:22,417 UsefulProxyCheck.py[line:55] INFO UsefulProxyCheck - thread_9  : 113.204.164.194:8080 validation fail
+2020-11-28 21:19:22,418 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:20:12,379 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:20:12,379 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:20:12,381 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:20:12,383 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:20:12,386 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:20:12,389 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:20:12,389 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:20:12,393 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:20:12,395 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:20:12,397 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:20:12,443 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:20:12,465 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:20:12,506 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:20:12,516 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:20:12,531 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:20:12,537 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:20:12,545 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:20:12,564 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:20:12,567 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:20:12,574 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:20:12,604 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.97.33.94:80      validation pass
+2020-11-28 21:20:12,611 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.149.144.224:80   validation pass
+2020-11-28 21:20:12,611 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:20:12,614 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 58.220.95.42:10174   validation pass
+2020-11-28 21:20:12,620 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:20:12,628 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.169.121:80    validation pass
+2020-11-28 21:20:12,633 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 123.125.114.107:80   validation pass
+2020-11-28 21:20:12,657 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.34.35:80      validation pass
+2020-11-28 21:20:12,685 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.249:80     validation pass
+2020-11-28 21:20:12,686 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 58.220.95.34:10174   validation pass
+2020-11-28 21:20:12,694 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:20:12,697 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.144:80    validation pass
+2020-11-28 21:20:12,701 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 61.135.185.112:80    validation pass
+2020-11-28 21:20:12,704 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 61.135.185.111:80    validation pass
+2020-11-28 21:20:12,714 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 116.117.134.134:80   validation pass
+2020-11-28 21:20:12,739 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 116.117.134.134:82   validation pass
+2020-11-28 21:20:12,773 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 111.13.100.91:80     validation pass
+2020-11-28 21:20:12,787 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 222.74.202.228:9999  validation pass
+2020-11-28 21:20:12,798 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.149.145.160:80   validation pass
+2020-11-28 21:20:12,806 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.92:80      validation pass
+2020-11-28 21:20:12,814 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 180.97.33.218:80     validation pass
+2020-11-28 21:20:12,815 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.97.33.144:80     validation pass
+2020-11-28 21:20:12,820 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 101.132.143.232:80   validation pass
+2020-11-28 21:20:12,821 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:20:12,826 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 183.232.231.239:80   validation pass
+2020-11-28 21:20:12,826 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:20:12,840 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 47.113.96.49:80      validation pass
+2020-11-28 21:20:12,840 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:20:12,865 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 220.181.111.37:80    validation pass
+2020-11-28 21:20:12,865 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:20:12,873 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 117.185.17.145:80    validation pass
+2020-11-28 21:20:12,874 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:20:12,887 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 112.80.248.73:80     validation pass
+2020-11-28 21:20:12,887 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:20:12,926 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.17:80     validation pass
+2020-11-28 21:20:12,926 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:20:12,936 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 183.232.232.69:80    validation pass
+2020-11-28 21:20:12,936 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:20:12,937 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 113.214.13.1:1080    validation pass
+2020-11-28 21:20:12,937 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:20:12,947 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 117.185.17.16:80     validation pass
+2020-11-28 21:20:12,948 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
+2020-11-28 21:21:12,383 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_0  : start
+2020-11-28 21:21:12,383 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_1  : start
+2020-11-28 21:21:12,384 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_2  : start
+2020-11-28 21:21:12,387 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_3  : start
+2020-11-28 21:21:12,394 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_4  : start
+2020-11-28 21:21:12,396 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_5  : start
+2020-11-28 21:21:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_6  : start
+2020-11-28 21:21:12,401 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_7  : start
+2020-11-28 21:21:12,402 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_8  : start
+2020-11-28 21:21:12,423 UsefulProxyCheck.py[line:38] INFO UsefulProxyCheck - thread_9  : start
+2020-11-28 21:21:12,455 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 112.80.248.75:80     validation pass
+2020-11-28 21:21:12,486 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 116.117.134.134:8081 validation pass
+2020-11-28 21:21:12,504 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.104.97:80     validation pass
+2020-11-28 21:21:12,531 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.16.31:80     validation pass
+2020-11-28 21:21:12,549 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 183.232.231.133:80   validation pass
+2020-11-28 21:21:12,556 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 163.177.151.224:80   validation pass
+2020-11-28 21:21:12,570 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 61.135.185.31:80     validation pass
+2020-11-28 21:21:12,571 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 182.61.62.74:80      validation pass
+2020-11-28 21:21:12,582 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 140.207.229.171:80   validation pass
+2020-11-28 21:21:12,597 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.93:80      validation pass
+2020-11-28 21:21:12,615 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.94:80      validation pass
+2020-11-28 21:21:12,627 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 58.220.95.42:10174   validation pass
+2020-11-28 21:21:12,633 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 180.149.144.224:80   validation pass
+2020-11-28 21:21:12,646 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 123.125.114.107:80   validation pass
+2020-11-28 21:21:12,650 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 117.185.17.151:80    validation pass
+2020-11-28 21:21:12,651 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 180.97.34.35:80      validation pass
+2020-11-28 21:21:12,671 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 61.135.169.121:80    validation pass
+2020-11-28 21:21:12,699 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 180.97.33.249:80     validation pass
+2020-11-28 21:21:12,707 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 58.220.95.34:10174   validation pass
+2020-11-28 21:21:12,715 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 117.185.17.144:80    validation pass
+2020-11-28 21:21:12,729 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 61.135.185.112:80    validation pass
+2020-11-28 21:21:12,732 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 61.135.185.111:80    validation pass
+2020-11-28 21:21:12,736 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 183.47.237.251:80    validation pass
+2020-11-28 21:21:12,746 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 116.117.134.134:80   validation pass
+2020-11-28 21:21:12,768 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 116.117.134.134:82   validation pass
+2020-11-28 21:21:12,797 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 222.74.202.228:9999  validation pass
+2020-11-28 21:21:12,810 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 180.149.145.160:80   validation pass
+2020-11-28 21:21:12,817 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 180.97.33.92:80      validation pass
+2020-11-28 21:21:12,817 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 183.232.231.239:80   validation pass
+2020-11-28 21:21:12,823 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 111.13.100.91:80     validation pass
+2020-11-28 21:21:12,835 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 180.97.33.144:80     validation pass
+2020-11-28 21:21:12,844 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 180.97.33.218:80     validation pass
+2020-11-28 21:21:12,875 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_6  : 47.113.96.49:80      validation pass
+2020-11-28 21:21:12,877 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_6  : exit
+2020-11-28 21:21:12,880 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_5  : 117.185.17.145:80    validation pass
+2020-11-28 21:21:12,880 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_5  : exit
+2020-11-28 21:21:12,895 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_1  : 220.181.111.37:80    validation pass
+2020-11-28 21:21:12,895 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_1  : exit
+2020-11-28 21:21:12,912 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_4  : 112.80.248.73:80     validation pass
+2020-11-28 21:21:12,912 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_4  : exit
+2020-11-28 21:21:12,946 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_7  : 117.185.17.17:80     validation pass
+2020-11-28 21:21:12,947 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_7  : exit
+2020-11-28 21:21:12,961 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_9  : 117.185.17.16:80     validation pass
+2020-11-28 21:21:12,961 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_9  : exit
+2020-11-28 21:21:12,975 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_3  : 113.214.13.1:1080    validation pass
+2020-11-28 21:21:12,976 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_3  : exit
+2020-11-28 21:21:12,976 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_0  : 183.232.232.69:80    validation pass
+2020-11-28 21:21:12,976 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_0  : exit
+2020-11-28 21:21:13,345 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_2  : 101.132.143.232:80   validation pass
+2020-11-28 21:21:13,345 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_2  : exit
+2020-11-28 21:21:13,988 UsefulProxyCheck.py[line:52] INFO UsefulProxyCheck - thread_8  : 61.135.185.103:80    validation pass
+2020-11-28 21:21:13,988 UsefulProxyCheck.py[line:44] INFO UsefulProxyCheck - thread_8  : exit
